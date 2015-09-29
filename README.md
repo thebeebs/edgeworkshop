@@ -1,2 +1,4 @@
 #To Set up
-npm install express
+Navigate to the directoy in command line. 
+> npm install
+> node app.js

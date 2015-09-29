@@ -1,0 +1,11 @@
+{
+  "name": "edgeworkshop",
+  "version": "0.0.1",
+  "description": "A simple app",
+  "main": "app.js",
+  "author": "Martin Beeby",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.13.3"
+  }
+}

@@ -7,6 +7,14 @@ Navigate to the directoy in command line.
 				
 This will install the dependencies of the node app.
 
+Install gulp
+
+		npm install --global gulp
+	
+Run gulp
+
+		gulp
+
 Then to start the app run
 
 		node app.js
